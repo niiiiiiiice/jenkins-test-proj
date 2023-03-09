@@ -5,7 +5,7 @@ stage('Deploy') {
       sh "echo 'Deploying...'"
 
       sh "echo 'Deploying 2...'"
-
+   
    }
 
 }
